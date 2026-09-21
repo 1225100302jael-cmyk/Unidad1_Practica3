@@ -1,0 +1,42 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Interestelar",
+        "genero": "Ciencia ficción",
+        "anio": 2014,
+        "calificacion": 9,
+        "estado": "Vista"
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Avengers Endgame",
+        "genero": "Acción",
+        "anio": 2019,
+        "calificacion": 8,
+        "estado": "Pendiente"
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Toy Story",
+        "genero": "Animación",
+        "anio": 1995,
+        "calificacion": 9,
+        "estado": "Vista"
+    },
+    {
+        "codigo": "P004",
+        "nombre": "El conjuro",
+        "genero": "Terror",
+        "anio": 2013,
+        "calificacion": 8,
+        "estado": "Pendiente"
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Titanic",
+        "genero": "Romance",
+        "anio": 1997,
+        "calificacion": 9,
+        "estado": "Vista"
+    }
+]
